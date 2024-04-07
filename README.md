@@ -16,7 +16,8 @@ Choosing a college major is a significant decision that can shape one's future c
 
 ## Sources
 
-https://www.mymajors.com/
-https://bigfuture.collegeboard.org/majors-careers
+- https://www.mymajors.com/
+
+- https://bigfuture.collegeboard.org/majors-careers
 
 
