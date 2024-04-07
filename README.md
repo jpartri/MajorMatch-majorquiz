@@ -1,4 +1,17 @@
-# MajorMatch
-Choosing a college major is a significant decision that can shape the trajectory of a student’s academic and professional future. However, many students struggle with indecision, uncertainty, and lack of clarity when faced with the multitude of options available. MajorMatch addresses this challenge by offering a comprehensive solution that leverages technology to empower students in their decision-making process. 
+# Major Match
 
-MajorMatch is a new software application designed to assist students in the challenging task of selecting a college major that aligns with their interests, skills, and career aspirations. With an intuitive interface and sophisticated algorithms, MajorMatch conducts a comprehensive assessment of users’ strengths and preferences, providing personalized recommendations and valuable insights into potential academic pathways. Here, we will explore the features, benefits, and potential impact of MajorMatch in guiding students toward informed decision-making and academic success.
+## Description
+
+Major Match is a web application designed to help students explore and discover potential college majors based on their interests, skills, and preferences. By providing personalized recommendations and valuable insights into various fields of study, Major Match aims to assist students in making informed decisions about their academic and career paths.
+
+## Why Major Match?
+
+Choosing a college major is a significant decision that can shape one's future career and academic trajectory. However, many students struggle with identifying the right major that aligns with their interests and aspirations. Major Match addresses this challenge by offering a user-friendly platform that guides students through a series of questions and assessments to identify suitable majors that match their profiles.
+
+## Key Features
+
+- Personalized assessment: MajorMatch uses a tailored questionnaire to gather information about users' interests, skills, and preferences.
+- Comprehensive database: The application provides access to a vast database of college majors, including detailed information about each major's curriculum, career prospects, and related industries.
+- Match algorithm: Major Match employs a sophisticated matching algorithm to analyze user responses and generate personalized recommendations based on compatibility with different majors.
+- User profiles: Users can create profiles to save their assessment results, explore recommended majors, and track their progress over time.
+- Resources and insights: Major Match offers additional resources and insights, such as articles, videos, and interviews with professionals, to help users explore and learn more about specific majors and career paths.
