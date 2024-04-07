@@ -13,3 +13,10 @@ Choosing a college major is a significant decision that can shape one's future c
 - Personalized assessment: MajorMatch uses a tailored questionnaire to gather information about users' interests, skills, and preferences.
 - Comprehensive database: The application provides access to a vast database of college majors, including career prospects and related industries.
 - Match algorithm: Major Match employs a sophisticated matching algorithm to analyze user responses and generate personalized recommendations based on compatibility with different majors.
+
+##Sources
+
+https://www.mymajors.com/
+https://bigfuture.collegeboard.org/majors-careers
+
+
