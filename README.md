@@ -1,1 +1,4 @@
-# MajorMatch-majorquiz
+# MajorMatch
+Choosing a college major is a significant decision that can shape the trajectory of a student’s academic and professional future. However, many students struggle with indecision, uncertainty, and lack of clarity when faced with the multitude of options available. MajorMatch addresses this challenge by offering a comprehensive solution that leverages technology to empower students in their decision-making process. 
+
+MajorMatch is a new software application designed to assist students in the challenging task of selecting a college major that aligns with their interests, skills, and career aspirations. With an intuitive interface and sophisticated algorithms, MajorMatch conducts a comprehensive assessment of users’ strengths and preferences, providing personalized recommendations and valuable insights into potential academic pathways. Here, we will explore the features, benefits, and potential impact of MajorMatch in guiding students toward informed decision-making and academic success.
