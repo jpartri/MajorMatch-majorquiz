@@ -78,14 +78,14 @@ def recommend_major(answers):
 
 # Main function
 def main():
-    # Add the main functionality here
+  
     print("Welcome to MajorMatch!")
     print("Discover your ideal college major with our comprehensive assessment.\n")
 
-    # Take the MajorMatch aptitude test
+
     take_major_match_test()
 
 
-# Call the main function to run the program
+
 if __name__ == "__main__":
     main()
