@@ -6,7 +6,7 @@ Major Match is a web application designed to help students explore and discover 
 
 ## Why Major Match?
 
-Choosing a college major is a significant decision that can shape one's future career and academic trajectory. However, many students struggle with identifying the right major that aligns with their interests and aspirations. Major Match addresses this challenge by offering a user-friendly platform that guides students through a series of questions and assessments to identify suitable majors that match their profiles.
+Choosing a college major is a significant decision that can shape one's future career and academic trajectory. However, many students struggle with identifying the right major that aligns with their interests and aspirations. Major Match addresses this challenge by offering a user-friendly platform that guides students through a series of questions and assessments to identify suitable majors that match their profiles
 
 ## Key Features
 
