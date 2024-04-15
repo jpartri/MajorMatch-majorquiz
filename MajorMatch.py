@@ -13,7 +13,7 @@ def take_major_match_test():
         "What motivates you to excel?",
         "What are your long-term career goals?"
     ]
-
+#some option choices would show up on the wrong question- I forgot commas, brackets, and quotations on some option choices.
     options = [
         ["Break them down into smaller components", "Look for patterns and similarities in previous solutions",
          "Collaborate with others to brainstorm solutions", "Trust your intuition and make quick decisions"],
@@ -42,7 +42,7 @@ def take_major_match_test():
         answer = input("Your answer (A/B/C/D): ").strip().upper()
         answers.append(answer)
 
-    print("\nThank you for completing the MajorMatch Aptitude Test!")
+    print("\nThank you for completing the MajorMatch Aptitude Test!") #decided to add an indent using '\n function
     print("Your answers:")
     for i, question in enumerate(questions):
         print(f"Question {i + 1}: {question}")
@@ -51,13 +51,14 @@ def take_major_match_test():
     # Recommend major based on answers
     recommend_major(answers)
 
-
+#ran into  a problem here, turns out def 'recommend_major' was not indented (which makes it a separate function)
 def recommend_major(answers):
     print("\nBased on your responses, we recommend considering the following majors:")
 
     # Analyze answers and provide recommendations
+    
     if "A" in answers[0]:
-        print("- Business Administration")
+        print("- Business Administration") #business administration would not print when tested, added parentheses. 
     if "B" in answers[1]:
         print("- Fine Arts or Industrial Design")
     if "C" in answers[2]:
@@ -65,9 +66,9 @@ def recommend_major(answers):
     if "D" in answers[3]:
         print("- Communication or Marketing")
     if "A" in answers[4]:
-        print("- Management or Entrepreneurship")
+        print("- Management or Entrepreneurship") # selecting 'A' would print both 'business administration' and 'management or entrepreneurship' at the same time, I did not define which question in brackets
     if "B" in answers[5]:
-        print("- Civil Engineering or Architecture")
+        print("- Civil Engineering or Architecture") 
     if "C" in answers[6]:
         print("- Psychology or Counseling")
     if "D" in answers[7]:
