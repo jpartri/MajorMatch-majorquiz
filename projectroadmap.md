@@ -8,9 +8,9 @@
 - [x] Turn in the Sprint #1 quiz on D2L
 
 ## Sprint 2
-- [ ] Make small updates and add commit messages with them in your repository through GitHub Desktop
-- [ ] Committed at least 6 code changes of significant size and explain what you did
-- [ ] tracking your progress on planned and emerging tasks in my projectroadmap.md
+- [x] Make small updates and add commit messages with them in your repository through GitHub Desktop
+- [x] Committed at least 6 code changes of significant size and explain what you did
+- [x] tracking your progress on planned and emerging tasks in my projectroadmap.md
 - [ ] Turn in Sprint #2 quiz on D2L
 
 ## Sprint 3
