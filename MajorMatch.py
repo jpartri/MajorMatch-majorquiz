@@ -73,6 +73,8 @@ def recommend_major(answers):
         print("- Psychology or Counseling")
     if "D" in answers[7]:
         print("- Sales or Human Resources")
+    if "A" in answers[8]:
+        print("- Political Science or Business Administration)
   
 
 
